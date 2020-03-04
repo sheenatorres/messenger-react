@@ -1,0 +1,49 @@
+.ui.borderless.topmenu {
+  border: none;
+  box-shadow: none;
+  padding: 10px;
+  margin-right: 50px;
+  color: #737373;
+}
+body {
+  margin-top: 170px;
+}
+
+h1 {
+  text-align: left;
+  font-size: 35px;
+}
+h4 {
+  font-size: 17px;
+  color: #737373;
+  font-weight: normal;
+}
+.login {
+  border-radius: 10px;
+}
+.middlemenu {
+  padding-left: 150px;
+  padding-top: 50px;
+}
+
+.middlepic {
+  padding-right: 150px;
+}
+
+.ui.input {
+  width: 300px;
+  height: 38px;
+}
+.ui.primary.blue.button {
+  border-radius: 100px;
+}
+
+.ui.borderless.footer.menu {
+  padding-bottom: 30px;
+  padding-top: 500px;
+  padding-left: 50px;
+  font-size: 13px;
+  border: none;
+  box-shadow: none;
+  color: #979797;
+}
